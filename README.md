@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HHBinder
+- 👀 I’m interested in python, SQL, Avocados & Forecasting
+- 🌱 I’m currently learning cloud pipelines
+- 💞️ I’m looking to collaborate on ... at least something
+- 📫 How to reach me ... mostlyhere or in rl
